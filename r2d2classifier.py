@@ -1,4 +1,7 @@
-import tensorflow as tf, sys
+#image classifier using tensorflow
+#follows Siraj Raval's tutorial
+import tensorflow as tf
+import sys
 
 image_path = sys.argv[1]
 
