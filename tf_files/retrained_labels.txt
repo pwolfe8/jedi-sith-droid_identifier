@@ -1,2 +1,3 @@
+jedi
+droid
 anakin
-r2d2
